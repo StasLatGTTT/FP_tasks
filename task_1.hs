@@ -13,5 +13,5 @@ answer_b a = ([ snd x | x <- a], [fst x | x <- a])
 answer_c a = (a,a)
 
 -- Part d)
-answer_d :: ([Char] -> Char) -> [Char] -> Char
+answer_d :: (a -> b) -> a -> b
 answer_d f a = f a
