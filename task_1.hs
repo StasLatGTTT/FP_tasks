@@ -1,9 +1,10 @@
 -- Part a)
-list_gen_1 :: Int -> [(Int, Int -> Int)]
-list_gen_1 a = [(x, succ) | x <- [1..a]]
-tmp_list_1 = [ (list_gen_1 x) | x <- [1..3]]
-answer_a :: [([(Int, Int -> Int)], Char)]
-answer_a = [(x, 'ы') | x <- tmp_list_1]
+-- list_gen_1 :: Int -> [(Int, Int -> Int)]
+-- list_gen_1 a = [(x, succ) | x <- [1..a]]
+-- tmp_list_1 = [ (list_gen_1 x) | x <- [1..3]]
+-- answer_a :: [([(Int, Int -> Int)], Char)]
+-- answer_a = [(x, 'ы') | x <- tmp_list_1]
+answer_a = [([((x :: Int), (succ :: Int -> Int)) | x <- [1..3]], s) | s <- "foo"]
 
 -- Part b)
 answer_b :: [(Char, Int)] -> ([Int], [Char])
