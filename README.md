@@ -12,7 +12,7 @@ task 7 - ready
 task 8 - not clear, get answered
 task 9 - ready
 task 10 - ready
-task 11 -
+task 11 - ready
 task 12 -
 task 13 -
 task 14 - ready
