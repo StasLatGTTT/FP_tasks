@@ -19,7 +19,7 @@ task 14 - ready
 task 15 - ready
 task 16 - ready
 task 17 - ready
-task 18 -
+task 18 - ready
 task 19 -
 task 20 -
 task 21 -
