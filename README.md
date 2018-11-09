@@ -13,8 +13,8 @@ task 8 - not clear, get answered
 task 9 - ready
 task 10 - ready
 task 11 - ready
-task 12 -
-task 13 -
+task 12 - ready
+task 13 - ready
 task 14 - ready
 task 15 - ready
 task 16 - ready
