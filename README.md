@@ -22,7 +22,7 @@ task 17 - ready
 task 18 - ready
 task 19 - ready
 task 20 - ready
-task 21 -
+task 21 - ready
 task 22 -
 task 23 -
 task 24 -
