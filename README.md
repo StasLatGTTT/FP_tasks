@@ -28,7 +28,7 @@ task 23 - ready
 task 24 - ready
 task 25 - ready
 task 26 - ready
-task 27 -
+task 27 - ready
 task 28 -
 task 29 -
 task 30 -
