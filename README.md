@@ -31,8 +31,8 @@ task 26 - ready
 task 27 - ready
 task 28 - ready
 task 29 - ready
-task 30 -
-task 31 -
+task 30 - cannot do
+task 31 - ready
 task 32 -
 task 33 -
 task 34 -
