@@ -3,7 +3,7 @@ Repository with functional programming tasks.
 Every task is written in its own file with commentary.
 
 task 1 - ready
-task 2 - special case
+task 2 - ready
 task 3 - ready
 task 4 - ready
 task 5 - ready
